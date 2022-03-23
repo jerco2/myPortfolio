@@ -5,7 +5,7 @@ import projectlist from "./projectlist";
 function Projects() {
   return (
     <div
-      className={`flex flex-col tablet:flex-row mt-8 laptop:m-8 tablet:justify-center`}
+      className={`flex flex-col tablet:flex-row mt-8 laptop:m-8 items-center tablet:justify-center`}
     >
       {projectlist.map((project, index) => {
         return (
