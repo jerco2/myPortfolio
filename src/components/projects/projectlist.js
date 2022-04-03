@@ -9,7 +9,7 @@ const projectlist = [
     tool1: "https://badgen.net/badge/icon/ReactJS?icon=atom&label",
     tool2: "https://badgen.net/badge/v5/StyledComponents/purple",
     description:
-      "Deliciousss is a simple recipe viewing app. Courtesy of Dev Ed ReactJS crash course 2022. Re-designed and added mobile view.",
+      "Deliciousss is a simple recipe viewing app from Dev Ed's ReactJS crash course 2022. Re-designed and added mobile view.",
     codeLink: "https://github.com/jerco2/deliciousss",
     liveLink: "https://deliciousss.herokuapp.com/",
   },
